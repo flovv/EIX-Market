@@ -18,13 +18,13 @@ From an individual perspective, market participants interact in a repeated decis
 November 2009 - December 2013
 
 ## Project Partner
-Institut für Informationswirtschaft und Marketing (IISM) 
-Institut der deutschen Wirtschaft Köln (IW)
-Handelsblatt GmbH
+*Institut fÃ¼r Informationswirtschaft und Marketing (IISM) 
+*Institut der deutschen Wirtschaft KÃ¶ln (IW)
+*Handelsblatt GmbH
 
 ## URLs
-eix.handelsblatt.com
-eix-market.de
+* http://eix.handelsblatt.com
+* http://eix-market.de
 
 ## Impressions
-[logo]: https://github.com/flovv/EIX-Market/raw/master/Screenshots/v3.jpg "Start page"
+[logo]: https://raw.githubusercontent.com/flovv/EIX-Market/master/Screenshots/v3.jpg "Start page"
