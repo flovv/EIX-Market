@@ -1,6 +1,6 @@
 
-# EIX Market Project Documentation (Economic Indicator eXchange)
-
+# EIX Market Project Documentation 
+Economic Indicator eXchange - A prediction market to forecast the German economy
 
 ## Abstract
 Macro-economic forecasts are used extensively in industry and government even though the historical accuracy and reliability is disputed. 
@@ -27,4 +27,4 @@ November 2009 - December 2013
 * http://eix-market.de
 
 ## Impressions
-[logo]: https://raw.githubusercontent.com/flovv/EIX-Market/master/Screenshots/v3.jpg "Start page"
+![alt text](https://raw.githubusercontent.com/flovv/EIX-Market/master/Screenshots/v3.jpg "Start page")
